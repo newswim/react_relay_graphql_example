@@ -1,0 +1,28 @@
+{
+  "name": "the_rgr_stack_xx",
+  "version": "1.0.0",
+  "description": "Working through the PluralSight course, \"Building Data-driven React Applications with Relay, GraphQL, and Flux\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/react_relay_graphql_example.git"
+  },
+  "keywords": [
+    "react",
+    "graphql",
+    "relay",
+    "flux",
+    "beef",
+    "pork",
+    "chicken"
+  ],
+  "author": "Dan Minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/react_relay_graphql_example/issues"
+  },
+  "homepage": "https://github.com/newswim/react_relay_graphql_example#readme"
+}
